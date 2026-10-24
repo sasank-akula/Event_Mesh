@@ -1,0 +1,6 @@
+ID,orderNumber,status,orderAmount,currencyCode,createdAt,createdBy,modifiedAt,modifiedBy
+aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaaa,ORD-1001,CREATED,1595.00,USD,2026-10-21T09:00:00Z,system,2026-10-21T09:00:00Z,system
+bbbbbbbb-bbbb-4bbb-8bbb-bbbbbbbbbbbb,ORD-1002,CONFIRMED,750.00,USD,2026-10-21T10:00:00Z,system,2026-10-21T10:00:00Z,system
+cccccccc-cccc-4ccc-8ccc-cccccccccccc,ORD-1003,CANCELLED,345.00,USD,2026-10-21T11:00:00Z,system,2026-10-21T11:30:00Z,system
+dddddddd-dddd-4ddd-8ddd-dddddddddddd,ORD-1004,CREATED,350.00,USD,2026-10-22T08:30:00Z,system,2026-10-22T08:30:00Z,system
+eeeeeeee-eeee-4eee-8eee-eeeeeeeeeeee,ORD-1005,CONFIRMED,450.00,USD,2026-10-22T09:15:00Z,system,2026-10-22T09:15:00Z,system
